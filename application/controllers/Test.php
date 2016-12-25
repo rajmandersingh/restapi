@@ -20,7 +20,7 @@ class Test extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "string1231";
+		echo "string1231    testing";
 		//$this->load->view('welcome_message');
 	}
 }
